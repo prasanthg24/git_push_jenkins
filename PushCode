@@ -3,6 +3,8 @@ class PushCode
 Public static void main(String[]args)
 {
   System.out.println("I am git_push_jenkins Project");
+  System.out.println("I am git_push_jenkins Project");
+  System.out.println("I am git_push_jenkins Project");
  }
   
 }
